@@ -1,0 +1,3 @@
+- Economic indicators are highly correlated
+- Inflation impacts employment
+- Growth patterns vary by region
