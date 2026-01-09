@@ -1,0 +1,3 @@
+- Sensitive data requires stricter access control
+- Compliance gaps increase security risks
+- Regular audits improve governance effectiveness
