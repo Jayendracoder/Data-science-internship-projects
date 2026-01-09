@@ -1,0 +1,3 @@
+- Negative sentiment often precedes market dips
+- Financial news drives short-term volatility
+- Certain topics trigger stronger reactions
