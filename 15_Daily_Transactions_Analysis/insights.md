@@ -1,0 +1,3 @@
+- Transaction volume shows periodic patterns
+- Certain categories dominate spending
+- Anomalies indicate potential fraud
