@@ -1,0 +1,3 @@
+- Experience significantly impacts salary
+- Location plays a major role in compensation
+- Senior roles command premium salaries
