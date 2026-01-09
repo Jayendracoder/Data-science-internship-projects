@@ -1,0 +1,3 @@
+- Certain coffee types drive most revenue
+- Sales peak during morning hours
+- Location significantly impacts performance
