@@ -1,0 +1,3 @@
+- Free apps dominate downloads
+- Higher ratings correlate with installs
+- Certain categories outperform others
