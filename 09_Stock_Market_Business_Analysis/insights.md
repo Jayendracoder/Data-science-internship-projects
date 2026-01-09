@@ -1,0 +1,3 @@
+- Stock prices show cyclical trends
+- High volatility indicates higher risk
+- Volume spikes often precede price movement
