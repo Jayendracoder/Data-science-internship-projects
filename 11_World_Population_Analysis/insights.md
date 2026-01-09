@@ -1,0 +1,3 @@
+- Population growth varies significantly by region
+- Developing countries show higher growth rates
+- Urbanization impacts population density
