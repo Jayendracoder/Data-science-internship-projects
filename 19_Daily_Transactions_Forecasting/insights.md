@@ -1,0 +1,3 @@
+- Transactions show strong seasonality
+- Forecasting helps reduce uncertainty
+- Sudden spikes indicate anomalies
