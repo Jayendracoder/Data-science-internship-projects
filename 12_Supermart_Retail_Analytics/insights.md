@@ -1,0 +1,3 @@
+- Certain categories drive most revenue
+- High discounts reduce profit margins
+- Regional preferences vary significantly
