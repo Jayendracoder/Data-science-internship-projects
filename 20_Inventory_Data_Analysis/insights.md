@@ -1,0 +1,3 @@
+- Overstocking increases holding costs
+- Accurate demand forecasting reduces stockouts
+- Reorder points must be optimized
