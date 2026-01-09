@@ -1,0 +1,3 @@
+- Coca-Cola stock shows stable long-term growth
+- Lower volatility compared to broader market
+- Suitable for long-term investment strategies
